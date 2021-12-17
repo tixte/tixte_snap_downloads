@@ -1,7 +1,7 @@
 {
 	"darwin-x64-prod": {
-		"update": "https://github.com/tixte/Tixte-Snap-Releases/releases/download/darwin-x64-prod-v0.0.1/release.json",
-		"install": "https://github.com/tixte/Tixte-Snap-Releases/releases/download/darwin-x64-prod-v0.0.1/TixteSnap-0.0.1.dmg",
+		"update": "https://github.com/tixte/Tixte-Snap-Downloads/releases/download/darwin-x64-prod-v0.0.1/release.json",
+		"install": "https://github.com/tixte/Tixte-Snap-Downloads/releases/download/darwin-x64-prod-v0.0.1/TixteSnap-0.0.1.dmg",
 		"version": "0.0.1"
 	}
 }
