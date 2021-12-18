@@ -1,3 +1,3 @@
 ## Official releases for Tixte Snap
 
-- To install, download the latest release from the [releases page](https://github.com/tixte/Tixte-Snap-Downloads/releases)
+- For easy installation, visit the (configuration page)[https://tixte.com/dashboard/configurations] on your Tixte dashboard and download the latest release for your OS.
