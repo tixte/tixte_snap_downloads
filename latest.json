@@ -2,6 +2,6 @@
 	"darwin-x64-prod": {
 		"update": "https://us-east-1.tixte.net/assets/downloads/TixteSnap/stable/darwin-x64/TixteSnap-0.1.0.dmg",
 		"install": "https://us-east-1.tixte.net/assets/downloads/TixteSnap/stable/darwin-x64/TixteSnap-0.1.0.dmg",
-		"version": "0.0.1"
+		"version": "0.1.0"
 	}
 }
